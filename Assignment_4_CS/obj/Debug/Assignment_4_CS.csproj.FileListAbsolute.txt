@@ -1,0 +1,7 @@
+C:\Users\Punk\source\repos\Assignment_4_CS\Assignment_4_CS\bin\Debug\Assignment_4_CS.exe.config
+C:\Users\Punk\source\repos\Assignment_4_CS\Assignment_4_CS\bin\Debug\Assignment_4_CS.exe
+C:\Users\Punk\source\repos\Assignment_4_CS\Assignment_4_CS\bin\Debug\Assignment_4_CS.pdb
+C:\Users\Punk\source\repos\Assignment_4_CS\Assignment_4_CS\obj\Debug\Assignment_4_CS.csprojAssemblyReference.cache
+C:\Users\Punk\source\repos\Assignment_4_CS\Assignment_4_CS\obj\Debug\Assignment_4_CS.csproj.CoreCompileInputs.cache
+C:\Users\Punk\source\repos\Assignment_4_CS\Assignment_4_CS\obj\Debug\Assignment_4_CS.exe
+C:\Users\Punk\source\repos\Assignment_4_CS\Assignment_4_CS\obj\Debug\Assignment_4_CS.pdb
